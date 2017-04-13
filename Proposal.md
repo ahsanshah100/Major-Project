@@ -7,13 +7,13 @@ I want to create something which is related to electronics and involves Comp Sci
 I will start right after the break and try to finish as fast as possible so if leter something breaks i have time to fix it.
 
 ## Must have list
--[] Sensors so i can ask the robot to sense different thing and use it at different Places.
--[] Speed change
--[] Code is nicely done
--[] work as coded
--[] Direction Change
--[] Run in a straight line
+-[ ] Sensors so i can ask the robot to sense different thing and use it at different Places.
+-[ ] Speed change
+-[ ] Code is nicely done
+-[ ] work as coded
+-[ ] Direction Change
+-[ ] Run in a straight line
 
 ## Nice to have text
--[] LED cube on the top of the Robot and programmed 
--[] Assigned work to do 
+-[ ] LED cube on the top of the Robot and programmed 
+-[ ] Assigned work to do 
